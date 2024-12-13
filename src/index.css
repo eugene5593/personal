@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ol {
+  list-style-position: inside;
+  text-align: center;
+  padding: 1%;
+}
